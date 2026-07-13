@@ -1,61 +1,93 @@
-## 👋 Hi there!
+```txt
+[boot@mahemdavad ~]$ cat /proc/intent
 
-# _Sujal Gohel_ (he/him)
+00:03 — small town, unstable internet, oversized ambition
+00:17 — discovered that code is leverage
+01:42 — stopped copying products, started spotting gaps
+02:11 — decided geography is a variable, not a limit
+```
 
-_Location:_ Mahemdavad, Gujarat, India
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sujal1286&label=Profile%20views&color=010b13&style=flat" alt="Sujal Gohel" style="width:130px; height:auto;" />
-</p> 
-<h2 align="center">⚒ Techstack ⚒</h2>
-<div align="center">
+---
 
-  <h3 align="center">Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
-  
-  <h3 align="center">Web Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-  
-  <h3 align="center">Database & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql" />
-   <h3 align="center">Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-    <img src="https://skillicons.dev/icons?i=docker" />
+# Sujal Gohel
 
+I come from **Mahemdavad, Gujarat** — the kind of place that teaches you to build with constraints first and excuses never.  
+Born on **12 Aug 2006**, currently 20, carrying a **BCA** into an **MCA at CHARUSAT (2026–2028)** with one obsession:
+
+> build products strong enough to compete globally, no matter where they’re born.
+
+I don’t chase trends. I chase blind spots.  
+If something is noisy, crowded, and already cloned 200 times, I ignore it.  
+If something is broken in a way people have accepted as “normal,” I build there.
+
+---
+
+<details>
+<summary><strong>what I’m building right now</strong></summary>
+
+## Veloris
+
+Veloris is where I’m learning to think like an operator, not just a coder.  
+Architecture, reliability, delivery speed, user trust — all at once, all under pressure.
+
+This season is less about "shipping features" and more about compounding decisions.
+
+</details>
+
+---
+
+## selected work, told honestly
+
+Some projects taught me how to ship.  
+Some taught me how systems fail.  
+The best ones taught me how to recover fast, redesign cleanly, and keep moving without drama.
+
+I optimize for products that survive real users, real load, and real deadlines — not demo-day perfection.
+
+---
+
+## stack (tools I trust when it matters)
+
+<div align="left">
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![BullMQ](https://img.shields.io/badge/BullMQ-111111?style=for-the-badge&logo=redis&logoColor=FF4438)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![Hono](https://img.shields.io/badge/Hono-111111?style=for-the-badge&logo=hono&logoColor=E36002)
+![TanStack Router](https://img.shields.io/badge/TanStack%20Router-111111?style=for-the-badge&logo=reactrouter&logoColor=FF4154)
+![Bun](https://img.shields.io/badge/Bun-111111?style=for-the-badge&logo=bun&logoColor=F9F1E1)
+![Turborepo](https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=EF4444)
 
 </div>
 
-## 📊 My Stats
+---
+
+## signal
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sujal1286&theme=vision-friendly-dark&card_width=850" alt="GitHub Streak"/>
-  </a><br>
-  <a href="https://github.com/sujal1286/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sujal1286&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF" alt="Top Languages"/>
-  </a><br>
-  <a href="https://github.com/sujal1286/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sujal1286&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true" alt="GitHub Stats"/>
-  </a><br>
-  <a href="https://github.com/sujal1286/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal1286&theme=github-compact&height=350&title_color=ffa500" alt="GitHub Activity"/>
-  </a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sujal1286&show_icons=true&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal1286&layout=compact&theme=transparent&hide_border=true" />
+
 </div>
 
-## 🌐 Connect with me  
-<p align="left">
-  <a href="mailto:sujalgohel1286@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sujalgohel/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/sujal1286" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Badge" height="30"/>
-  </a>
-</p>
+---
 
-🌟 *Thanks for visiting!*  
-Feel free to explore my repositories, star ⭐ your favorites, and connect with me.  
-Let's build something awesome together! 😊
+## signature
+
+> **"I’m not trying to escape a small town — I’m trying to make distance irrelevant."**
+
+---
+
+## reach
+
+`/github` → [@sujal1286](https://github.com/sujal1286)  
+`/linkedin` → [sujalgohel](https://www.linkedin.com/in/sujalgohel/)  
+`/mail` → [sujalgohel1286@gmail.com](mailto:sujalgohel1286@gmail.com)
